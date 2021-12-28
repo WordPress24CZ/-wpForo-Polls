@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"Project-Id-Version: wpForo Polls\n"
+"POT-Creation-Date: 2019-09-24 15:38+0400\n"
+"PO-Revision-Date: 2021-12-28 09:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: JK Studio <info@jkstudio.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpforopoll.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: cs_CZ\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:74
+msgid ""
+"IMPORTANT: wpForo Poll plugin is a wpForo extension, please install wpForo "
+"plugin."
+msgstr ""
+"DŮLEŽITÉ: wpForo Poll plugin je rozšíření wpForo, nainstalujte si prosím "
+"wpForo plugin."
+
+#: includes/gvt-api-manager.php:145
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Během požadavku API došlo k neočekávané chybě HTTP.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Zkuste to znovu</a>"
+
+#: includes/gvt-api-manager.php:149
+msgid "An unknown error occurred"
+msgstr "Nastala neznámá chyba"
+
+#: includes/gvt-api-manager.php:195
+msgid "Activate"
+msgstr "Aktivovat"
+
+#. Plugin Name of the plugin/theme
+#: includes/options.php:12
+msgid "wpForo Polls"
+msgstr "wpForo ankety"
+
+#: includes/options.php:18
+msgid "Maximum number of poll options"
+msgstr "Maximální počet možností hlasování"
+
+#: includes/options.php:23
+msgid "Must vote to see poll result"
+msgstr "Pro zobrazení výsledku ankety musíte hlasovat"
+
+#: includes/options.php:27 includes/options.php:38 includes/options.php:49
+msgid "Enable"
+msgstr "Povolit"
+
+#: includes/options.php:28 includes/options.php:39 includes/options.php:50
+msgid "Disable"
+msgstr "Zakázat"
+
+#: includes/options.php:34
+msgid "Multiple Votes"
+msgstr "Vícenásobné hlasování"
+
+#: includes/options.php:45
+msgid "Poll Time-out"
+msgstr "Časový limit ankety"
+
+#: includes/options.php:55
+msgid "Update Options"
+msgstr "Možnosti aktualizace"
+
+#: includes/widgets.php:68
+msgid "Title"
+msgstr "Název"
+
+#: includes/widgets.php:71
+msgid "Number of Items"
+msgstr "Počet položek"
+
+#: includes/widgets.php:75
+msgid "Display Ended Polls"
+msgstr "Zobrazit ukončené ankety"
+
+#: includes/wpfpm-phrases.php:7
+msgid "Create Poll"
+msgstr "Vytvořit anketu"
+
+#: includes/wpfpm-phrases.php:8
+msgid "Poll Question"
+msgstr "Anketní otázka"
+
+#: includes/wpfpm-phrases.php:9
+msgid "Timeout in days (set 0 for a never ending poll)."
+msgstr "Časový limit ve dnech (nastavte 0 pro nikdy nekončící hlasování)."
+
+#: includes/wpfpm-phrases.php:10
+msgid "Multiple"
+msgstr "Vícenásobné"
+
+#: includes/wpfpm-phrases.php:11
+msgid "poll option"
+msgstr "možnost ankety"
+
+#: includes/wpfpm-phrases.php:12
+msgid "delete"
+msgstr "smazat"
+
+#: includes/wpfpm-phrases.php:13
+msgid "Add Option"
+msgstr "Přidat možnost"
+
+#: includes/wpfpm-phrases.php:14
+msgid "Poll"
+msgstr "Anketa"
+
+#: includes/wpfpm-phrases.php:15
+msgid "Vote Now"
+msgstr "Hlasujte nyní"
+
+#: includes/wpfpm-phrases.php:16
+msgid "Delete this poll"
+msgstr "Smazat tuto anketu"
+
+#: includes/wpfpm-phrases.php:17
+msgid "Click to delete this poll with voting result"
+msgstr "Kliknutím smažete toto hlasování s výsledkem hlasování"
+
+#: includes/wpfpm-phrases.php:18
+msgid "Poll results"
+msgstr "Výsledky ankety"
+
+#: includes/wpfpm-phrases.php:19
+msgid "Go To Vote"
+msgstr "Přejít k hlasování"
+
+#: includes/wpfpm-phrases.php:20
+msgid "Voters"
+msgstr "Hlasovali"
+
+#: includes/wpfpm-phrases.php:21
+msgid "votes:"
+msgstr "počet hlasů:"
+
+#: includes/wpfpm-phrases.php:22
+msgid "Poll Details"
+msgstr "Podrobnosti ankety"
+
+#: includes/wpfpm-phrases.php:23
+msgid "Allow multiple choice (users can vote for more than one option)."
+msgstr ""
+"Povolit více možností (uživatelé mohou hlasovat pro více než jednu možnost)."
+
+#: includes/wpfpm-phrases.php:24
+msgid "votes"
+msgstr "hlasů"
+
+#: includes/wpfpm-phrases.php:25
+msgid "View Results"
+msgstr "Zobrazit výsledky"
+
+#: includes/wpfpm-phrases.php:26
+#, php-format
+msgid "Poll is closed %s"
+msgstr "Anketa je uzavřena %s"
+
+#: includes/wpfpm-phrases.php:27
+#, php-format
+msgid "Poll is available till %s until then all votes are hidden"
+msgstr "Anketa je dostupná do %s, do té doby budou všechny hlasy skryté"
+
+#: includes/wpfpm-phrases.php:28
+#, php-format
+msgid "Poll is available till %s"
+msgstr "Anketa je dostupná do %s"
+
+#: includes/wpfpm-phrases.php:29
+#, php-format
+msgid "Poll is created on %s"
+msgstr "Anketa je vytvořena na %s"
+
+#: includes/wpfpm-phrases.php:30
+msgid "Poll options count range has been exceeded"
+msgstr "Počet možností hlasování byl překročen"
+
+#: includes/wpfpm-phrases.php:31
+msgid "Poll successfully added"
+msgstr "Anketa byla úspěšně přidána"
+
+#: includes/wpfpm-phrases.php:32
+msgid "Poll add error"
+msgstr "Chyba přidání ankety"
+
+#: includes/wpfpm-phrases.php:33
+msgid "Poll successfully Edited"
+msgstr "Anketa úspěšně upravena"
+
+#: includes/wpfpm-phrases.php:34
+msgid "Poll Edit action error"
+msgstr "Chyba akce úpravy ankety"
+
+#: includes/wpfpm-phrases.php:35
+msgid "Poll successfully Voted"
+msgstr "Hlasování bylo úspěšné"
+
+#: includes/wpfpm-phrases.php:36
+msgid "Poll Vote action error"
+msgstr "Chyba akce hlasování"
+
+#: includes/wpfpm-phrases.php:37
+msgid "Poll successfully deleted"
+msgstr "Anketa byla úspěšně smazána"
+
+#: includes/wpfpm-phrases.php:38
+msgid "Poll delete error"
+msgstr "Chyba při smazání ankety"
+
+#: includes/wpfpm-phrases.php:39
+msgid "Options Saved"
+msgstr "Možnosti uloženy"
+
+#: includes/wpfpm-phrases.php:40
+msgid "Permission denied for this action"
+msgstr "Povolení k této akci bylo zamítnuto"
+
+#: includes/wpfpm-phrases.php:41
+#, php-format
+msgid "Created on %s"
+msgstr "Vytvořeno %s"
+
+#: includes/wpfpm-phrases.php:42
+#, php-format
+msgid "Closed %s"
+msgstr "Uzavřeno %s"
+
+#: includes/wpfpm-phrases.php:43
+#, php-format
+msgid "Available till %s"
+msgstr "Dostupné do %s"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpForo.com"
+msgstr "http://wpForo.com"
+
+#. Description of the plugin/theme
+msgid "Adds an advanced poll system to wpForo."
+msgstr "Přidává pokročilý systém hlasování do wpForo."
+
+#. Author of the plugin/theme
+msgid "gVectors Team (A. Chakhoyan and R. Hovhannisyan)"
+msgstr "gVectors Team (A. Chakhoyan and R. Hovhannisyan)"
+
+#. Author URI of the plugin/theme
+msgid "http://gvectors.com/"
+msgstr "http://gvectors.com/"
